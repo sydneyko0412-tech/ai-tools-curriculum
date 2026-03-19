@@ -1,4 +1,3 @@
-```markdown
 # Month 3 Week 2 – Project Playbooks
  
 대표 프로젝트 2개에 대한 AI 활용 절차서를 정리합니다.
@@ -31,4 +30,4 @@
 ## Project 2 – [프로젝트 이름 예: MMM/ROI 분석]
  
 (위와 동일 구조로 작성)
-```
+
