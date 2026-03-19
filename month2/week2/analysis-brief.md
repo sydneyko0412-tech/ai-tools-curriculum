@@ -1,4 +1,3 @@
-```markdown
 # Month 2 Week 2 – Analysis Brief
  
 ## 1. 분석 대상
