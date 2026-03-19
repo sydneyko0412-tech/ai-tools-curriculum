@@ -2,6 +2,7 @@
 ![Role](https://img.shields.io/badge/role-FMCG%20Strategic%20Planner-0F766E?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/focus-AI%20×%20Marketing%20×%20Data-7C3AED?style=for-the-badge)
 ![Stack](https://img.shields.io/badge/tools-Copilot·Gemini·Claude·Perplexity-2563EB?style=for-the-badge)
+
 Agile problem-solver with hands-on experience across FMCG brand strategy, e-commerce sales, and data analytics at Johnson & Johnson / Kenvue, translating consumer and business insights into concrete growth plans.
 Currently building multi-AI workflows with Copliot, Gemini, Claude, and Perplexity to scale how I plan, analyze and communicate in real life commercial projects.
 
