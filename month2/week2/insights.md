@@ -1,4 +1,3 @@
-```markdown
 # Month 2 Week 2 – Insights
  
 ## 1. 내부 데이터 인사이트 (Gemini/Claude 기준)
@@ -24,5 +23,5 @@
 - 액션 3: [내용]  
 - 액션 4: [내용]  
 - 액션 5: [내용]
-```
+
  
