@@ -1,4 +1,3 @@
-```markdown
 # Month 2 Week 3 – Proposal Outline
  
 ## 1. 제안서 기본 정보
@@ -23,5 +22,3 @@
 ## 3. 각 섹션에 넣고 싶은 내용 아이디어
  
 - [각 섹션마다 bullet로 메모]
-```
- 
