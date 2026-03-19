@@ -1,4 +1,3 @@
-```markdown
 # Month 3 Week 3 – Workflow Scripts
  
 반복 업무에 대한 프롬프트 체인(Workflow Script)을 정리합니다.
@@ -33,4 +32,3 @@
 ### 3. 실행 시 주의 사항 / 개선 메모
  
 - [내용 작성]
-```
