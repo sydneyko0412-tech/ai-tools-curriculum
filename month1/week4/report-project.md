@@ -1,4 +1,3 @@
-```markdown
 # Month 1 Week 4 – Long Report Project
  
 ## 1. 리포트 정보
@@ -42,5 +41,3 @@
 ## 5. 이 리포트에서 배운 점
  
 - [내용 3~5줄]
-```
- 
