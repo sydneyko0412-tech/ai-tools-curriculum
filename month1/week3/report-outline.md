@@ -1,4 +1,3 @@
-```markdown
 # Month 1 Week 3 – Report Outline
  
 Perplexity 리서치 결과를 Claude로 구조화한 리포트 목차입니다.
@@ -31,4 +30,3 @@ Perplexity 리서치 결과를 Claude로 구조화한 리포트 목차입니다.
   - [요약 bullet]
  
 - … (각 섹션에 2~3줄씩 메모 추가)
-```
