@@ -1,4 +1,3 @@
-```markdown
 # Month 2 Week 4 – Collaboration & People Management Playbook
  
 이 문서는 회의록, 1:1, 우선순위, 주간 리뷰를 AI로 어떻게 돌릴지에 대한 내 전용 매뉴얼입니다.
@@ -40,4 +39,3 @@
 ## 5. 앞으로 개선하고 싶은 점
  
 - [내용 3~5줄]
-```
