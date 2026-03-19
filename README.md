@@ -130,7 +130,7 @@
 - AI Workflow Automation: 7 Use Cases for Marketers  
   - https://www.averi.ai/guides/ai-workflow-automation-7-use-cases-for-marketers
 
-### 3달차 4주 – 포트폴리오 · 셀프 브���딩
+### 3달차 4주 – 포트폴리오 · 셀프 브랜딩
 
 - Perplexity at Work – 성과 측정·결과 공유 섹션  
 - Claude Cowork/Skills – 프로젝트 회고·디시전 로그 생성
