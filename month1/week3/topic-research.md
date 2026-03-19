@@ -1,4 +1,3 @@
-```markdown
 # Month 1 Week 3 – Topic Research
  
 ## 1. 주제(Topic)
@@ -26,5 +25,3 @@
 1. [질문1]  
 2. [질문2]  
 3. [질문3]
-```
- 
