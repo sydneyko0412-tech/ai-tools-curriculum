@@ -1,3 +1,7 @@
+# Ko, Do Yeon - AI-powered FMCG Strategist
+Agile problem-solver with hands-on experience across FMCG brand strategy, e-commerce sales, and data analytics at Johnson & Johnson / Kenvue, translating consumer and business insights into concrete growth plans.
+Currently building multi-AI workflows with Copliot, Gemini, Claude, and Perplexity to scale how I plan, analyze and communicate in real life commercial projects.
+
 # Multi-AI Tools Curriculum (Copilot · Gemini · Claude · Perplexity)
 
 - 기간: 3개월
@@ -551,10 +555,3 @@
     > ① 3개월 학습 회고 에세이(1페이지)  
     > ② 이력서/링크드인용 자기소개 3버전(짧게/보통/길게) 작성해줘.
   - 필요한 부분만 골라 README `final-summary` 섹션에 저장.
-
----
-
-이 문서를 기반으로,  
-- 상단에 본인 이름이나 한 줄 소개만 추가하고,  
-- 실제 결과물(파일, 스크린샷)을 `monthX/weekY/` 폴더에 차곡차곡 쌓아가면  
-완전히 “나만의 AI 학습·실무 포트폴리오 리포지토리”가 됩니다.
